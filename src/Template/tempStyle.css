@@ -1,0 +1,17 @@
+.mainPageTemp {
+  background-color: blue;
+  flex: 1;
+  max-width: 840px;
+}
+
+.templateContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.wholePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
